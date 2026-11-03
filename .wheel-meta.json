@@ -1,0 +1,22 @@
+{
+  "wheel_id": 703,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-com-150",
+  "project": "bathroom-tiling-adelaide-4dd3a242384bf52f023c1113699c97bc0874e7",
+  "parent_t1_ref": "adelaidetilingwaterproofing.com-004",
+  "node_role": "buffer",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "bathroom tiling adelaide",
+  "intended_url": "https://aumedia.neocities.org/bathroom-tiling-adelaide-4dd3a242384bf52f023c1113699c97bc0874e7/",
+  "tier": "T2",
+  "writeback_nonce": "12635d77c37653e3",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bathroom-tiling-adelaide/",
+      "anchor": "the bathroom tiling adelaide overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
